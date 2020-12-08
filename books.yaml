@@ -1,0 +1,702 @@
+books:
+  - title: Les 39 clés
+    volume: 4
+    author: Jude Watson
+    year: 2020
+    genre:
+    language: French
+    info: |
+        ...
+
+  - title: Rico & Oscar
+    volume: 1
+    author: Andreas Steinhöfel
+    year: 2020
+    genre:
+    language: French
+
+  - title: Lili veut un petit chat
+    volume:
+    author: Dominique de Saint Mars
+    year: 2020
+    genre: BD
+    language: French
+
+  - title: Les deux gredins
+    volume:
+    author: Roald Dahl
+    year: 2020
+    genre:
+    language: French
+
+  - title: Lili va chez la psy
+    volume:
+    author: Dominique de Saint Mars
+    year: 2020
+    genre: BD
+    language: French
+
+  - title: Les 39 clés
+    volume: 3
+    author: Rick Riordan
+    year: 2020
+    genre:
+    language: French
+
+  - title: La cabane magique
+    volume: 4
+    author: Mary Pope Osborne
+    year: 2020
+    genre:
+    language: French
+
+  - title: La cabane magique
+    volume: 2
+    author: Mary Pope Osborne
+    year: 2020
+    genre:
+    language: French
+
+  - title: La cabane magique
+    volume: 49
+    author: Mary Pope Osborne
+    year: 2020
+    genre:
+    language: French
+
+  - title: Enquête au collège, le professeur a disparu
+    volume:
+    author: Jean-Philippe Arrou-Vignod
+    year: 2020
+    genre:
+    language: French
+
+  - title: Enquête au collège, sur la piste de la salamandre
+    volume:
+    author: Jean-Philippe Arrou-Vignod
+    year: 2020
+    genre:
+    language: French
+
+  - title: Les Legendaires
+    volume: 2
+    author: Patrick Sobral
+    year: 2020
+    genre: BD
+    language: French
+
+  - title: Les Legendaires
+    volume: 3
+    author: Patrick Sobral
+    year: 2020
+    genre: BD
+    language: French
+
+  - title: Les Sisters
+    volume: 13
+    author: Cazenove & William
+    year: 2020
+    genre: BD
+    language: French
+
+  - title: La cabane magique
+    volume: 48
+    author: Mary Pope Osborne
+    year: 2020
+    genre:
+    language: French
+
+  - title: Le mystérieux cercle Benedict
+    volume: 3
+    author: Trenton Lee Stewart
+    year: 2020
+    genre:
+    language: French
+
+  - title: La cabane magique
+    volume: 40
+    author: Mary Pope Osborne
+    year: 2020
+    genre:
+    language: French
+
+  - title: Le mystérieux cercle Benedict
+    volume: 2
+    author: Trenton Lee Stewart
+    year: 2020
+    genre:
+    language: French
+
+  - title: La rivière à l'envers
+    volume: 1
+    author: Jean-Claude Mourlevat
+    year: 2020
+    genre:
+    language: French
+
+  - title: Le Royaume des Loups
+    volume: 6
+    author: Kathryn Lasky
+    year: 2020
+    genre:
+    language: French
+
+  - title: La cabane magique
+    volume: 24
+    author: Mary Pope Osborne
+    year: 2020
+    genre:
+    language: French
+
+  - title: Matilda
+    volume:
+    author: Roald Dahl
+    year: 2020
+    genre:
+    language: French
+
+  - title: Le mystérieux cercle Benedict
+    volume: 1
+    author: Trenton Lee Stewart
+    year: 2020
+    genre:
+    language: French
+
+  - title: Le Royaume des Loups
+    volume: 5
+    author: Kathryn Lasky
+    year: 2020
+    genre:
+    language: French
+
+  - title: Cœur gimauve
+    volume:
+    author: Cathy Cassidy
+    year: 2020
+    genre:
+    language: French
+
+  - title: Les 39 clés
+    volume: 1
+    author: Rick Riordan
+    year: 2020
+    genre:
+    language: French
+
+  - title: La meneuse de bêtes
+    volume:
+    author: Anne Ferrier
+    year: 2020
+    genre:
+    language: French
+
+  - title: Le Royaume des Loups
+    volume: 4
+    author: Kathryn Lasky
+    year: 2020
+    genre:
+    language: French
+
+  - title: L'ile au Trésor
+    volume:
+    author: Robert Louis Stevenson
+    year: 2020
+    genre:
+    language: French
+
+  - title: La cabane magique
+    volume: 23
+    author: Mary Pope Osborne
+    year: 2020
+    genre:
+    language: French
+
+  - title: Enquête au collège l'élève qui n'existait pas
+    volume:
+    author: Jean-Philippe Arrou-Vignod
+    year: 2020
+    genre:
+    language: French
+
+  - title: Le Royaume des Loups
+    volume: 3
+    author: Kathryn Lasky
+    year: 2020
+    genre:
+    language: French
+
+  - title: Sacrées Sorcières
+    volume:
+    author: Roald Dahl
+    year: 2020
+    genre:
+    language: French
+
+  - title: Charlie et le grand ascenseur de verre
+    volume:
+    author: Roald Dahl
+    year: 2020
+    genre:
+    language: French
+
+  - title: Charlie et la chocolaterie
+    volume:
+    author: Roald Dahl
+    year: 2020
+    genre:
+    language: French
+
+  - title: Le Royaume des Loups
+    volume: 2
+    author: Kathryn Lasky
+    year: 2020
+    genre:
+    language: French
+
+  - title: Le livre des Etoiles
+    volume: 3
+    author: Erik L'Homme
+    year: 2020
+    genre:
+    language: French
+
+  - title: Les sorcières du clan du Nord
+    volume: 1
+    author: Irena Brignull
+    year: 2020
+    genre:
+    language: French
+
+  - title: Le Royaume des Loups
+    volume: 1
+    author: Kathryn Lasky
+    year: 2020
+    genre:
+    language: French
+
+  - title: Le livre des Etoiles
+    volume: 2
+    author: Erik L'Homme
+    year: 2020
+    genre:
+    language: French
+
+  - title: Starfell et Violette Dupin et le Jour Perdu
+    volume:
+    author: Dominique Valente
+    year: 2020
+    genre:
+    language: French
+
+  - title: La patisserie Bliss
+    volume: 5
+    author: Katheryn Littlewood
+    year: 2020
+    genre:
+    language: French
+
+  - title: La patisserie Bliss
+    volume: 4
+    author: Katheryn Littlewood
+    year: 2020
+    genre:
+    language: French
+
+  - title: La patisserie Bliss
+    volume: 3
+    author: Katheryn Littlewood
+    year: 2020
+    genre:
+    language: French
+
+  - title: Madame Pamplemousse et la Confiserie Enchantée
+    volume:
+    author: Rupert Kingfisher
+    year: 2020
+    genre:
+    language: French
+
+  - title: Madame Pamplemousse et le Café à Remonter le Temps
+    volume:
+    author: Rupert Kingfisher
+    year: 2020
+    genre:
+    language: French
+
+  - title: Les animaux fantastiques vie & habitat
+    volume:
+    author: J.K. Rowling
+    year: 2020
+    genre:
+    language: French
+
+  - title: Le quidditch a travers les ages
+    volume:
+    author: J.K. Rowling
+    year: 2020
+    genre:
+    language: French
+
+  - title: Les contes de beedle le barde
+    volume:
+    author: J.K. Rowling
+    year: 2020
+    genre:
+    language: French
+
+  - title: La cabane magique
+    volume: 25
+    author: Mary Pope Osborne
+    year: 2020
+    genre:
+    language: French
+
+  - title: Miss Dashwood
+    volume: 2
+    author: Gwenaële Barussaud
+    year: 2020
+    genre:
+    language: French
+
+  - title: Miss Dashwood
+    volume: 1
+    author: Gwenaële Barussaud
+    year: 2020
+    genre:
+    language: French
+
+  - title: Le carnet d'Allie, Les vraies amies
+    volume: 3
+    author: Meg Cabot
+    year: 2020
+    genre:
+    language: French
+
+  - title: Alice au Pays des merveilles
+    volume:
+    author: Lewis Carroll
+    year: 2020
+    genre:
+    language: French
+
+  - title: Le tour du monde en 80 jours
+    volume:
+    author: Jules Verne
+    year: 2020
+    genre:
+    language: French
+
+  - title: La pâtisserie Bliss
+    volume: 1
+    author: Kathryn Littlewood
+    year: 2020
+    genre:
+    language: French
+
+  - title: La pâtisserie Bliss
+    volume: 2
+    author: Kathryn Littlewood
+    year: 2020
+    genre:
+    language: French
+
+  - title: Le carnet d'Allie, La nouvelle école
+    volume: 2
+    author: Meg Cabot
+    year: 2020
+    genre:
+    language: French
+
+  - title: Madame Pamplemousse et ses Fabuleux Délices
+    volume:
+    author: Rupert Kingfisher
+    year: 2020
+    genre:
+    language: French
+
+  - title: L'été de Summerlost
+    volume:
+    author: Ally Condie
+    year: 2020
+    genre:
+    language: French
+
+  - title: Hôtel Grand Amour
+    volume:
+    author: Sjoerd Kuyper
+    year: 2020
+    genre:
+    language: French
+
+  - title: La famille trop d'famille
+    volume: Flavia
+    author: Susie Morgenstern
+    year: 2020
+    genre:
+    language: French
+
+  - title: La famille trop d'famille
+    volume: Cara n'aime pas l'école
+    author: Susie Morgenstern
+    year: 2020
+    genre:
+    language: French
+
+  - title: La famille trop d'famille
+    volume: Bella
+    author: Susie Morgenstern
+    year: 2020
+    genre:
+    language: French
+
+  - title: La famille trop d'famille
+    volume: Flavia, reine des billes
+    author: Susie Morgenstern
+    year: 2020
+    genre:
+    language: French
+
+  - title: La famille trop d'famille
+    volume: Cara
+    author: Susie Morgenstern
+    year: 2020
+    genre:
+    language: French
+
+  - title: La famille trop d'famille
+    volume: Un papa en vacances
+    author: Susie Morgenstern
+    year: 2020
+    genre:
+    language: French
+
+  - title: La famille trop d'famille
+    volume: Bella, romancière
+    author: Susie Morgenstern
+    year: 2020
+    genre:
+    language: French
+
+  - title: La famille trop d'famille
+    volume: Cara et la fée des devoirs
+    author: Susie Morgenstern
+    year: 2020
+    genre:
+    language: French
+
+  - title: La famille trop d'famille
+    volume: Le bonheur selon Dana
+    author: Susie Morgenstern
+    year: 2020
+    genre:
+    language: French
+
+  - title: La famille trop d'famille
+    volume: Gabriel
+    author: Susie Morgenstern
+    year: 2020
+    genre:
+    language: French
+
+  - title: La famille trop d'famille
+    volume: Anna
+    author: Susie Morgenstern
+    year: 2020
+    genre:
+    language: French
+
+  - title: La famille trop d'famille
+    volume: Elisa
+    author: Susie Morgenstern
+    year: 2020
+    genre:
+    language: French
+
+  - title: La famille trop d'famille
+    volume: La varicelle x7
+    author: Susie Morgenstern
+    year: 2020
+    genre:
+    language: French
+
+  - title: La famille trop d'famille
+    volume: Billy, le roi des chaussettes
+    author: Susie Morgenstern
+    year: 2020
+    genre:
+    language: French
+
+  - title: Les Demoiselles des Hauts-Vents
+    volume:
+    author: Yael Hassan
+    year: 2020
+    genre:
+    language: French
+
+  - title: Celle de milieu
+    volume:
+    author: Kirsty Applebaum
+    year: 2020
+    genre:
+    language: French
+
+  - title: Les déclinaisons de la Marguerite
+    volume:
+    author: Seraphine Menu
+    year: 2020
+    genre:
+    language: French
+
+  - title: Harry Potter et l'enfant maudit
+    volume: 8
+    author: J.K. Rowling
+    year: 2020
+    genre:
+    language: French
+
+  - title: La passe miroir
+    volume: 1
+    author: Christelle Dabos
+    year: 2020
+    genre:
+    language: French
+
+  - title: Cœur cerise
+    volume:
+    author: Cathy Cassidy
+    year: 2020
+    genre:
+    language: French
+
+  - title: Двойната Лотхен
+    volume:
+    author: Ерих Кестнер
+    year: 2020
+    genre:
+    language: Bulgarian
+
+  - title: Мери Попинз
+    volume:
+    author: Памела Травърз
+    year: 2020
+    genre:
+    language: Bulgarian
+
+  - title: Мечо Пух
+    volume:
+    author: Алън Милн
+    year: 2020
+    genre:
+    language: Bulgarian
+
+  - title: Harry Potter et les reliques de la mort
+    volume: 7
+    author: J.K. Rowling
+    year: 2020
+    genre:
+    language: French
+
+  - title: Harry Potter et le prince de sang-mele
+    volume: 6
+    author: J.K. Rowling
+    year: 2020
+    genre:
+    language: French
+
+  - title: Harry Potter et l'ordre du phenix
+    volume: 5
+    author: J.K. Rowling
+    year: 2020
+    genre:
+    language: French
+
+  - title: Harry Potter et la coupe de feu
+    volume: 4
+    author: J.K. Rowling
+    year: 2020
+    genre:
+    language: French
+
+  - title: Harry Potter et le prisonnier d'azkaban
+    volume: 3
+    author: J.K. Rowling
+    year: 2020
+    genre:
+    language: French
+
+  - title: Le Livre des Etoiles
+    volume: 1
+    author: Erik L'Homme
+    year: 2019
+    genre:
+    language: French
+
+  - title: Jeanne de Mortepaille
+    volume: 1
+    author: Sophie Noel
+    year: 2019
+    genre:
+    language: French
+
+  - title: Jeanne de Mortepaille
+    volume: 2
+    author: Sophie Noel
+    year: 2019
+    genre:
+    language: French
+
+  - title: Jeanne de Mortepaille
+    volume: 3
+    author: Sophie Noel
+    year: 2019
+    genre:
+    language: French
+
+  - title: Jeanne de Mortepaille
+    volume: 4
+    author: Sophie Noel
+    year: 2019
+    genre:
+    language: French
+
+  - title: Ян бибиян
+    volume:
+    author: Елин Пелин
+    year: 2019
+    genre:
+    language: Bulgarian
+
+  - title: Карлсон, който живее на покрива
+    volume:
+    author: Астрид Линдгрен
+    year: 2019
+    genre:
+    language: Bulgarian
+
+  - title: Пипи дългото чорапче
+    volume:
+    author: Астрид Линдгрен
+    year: 2019
+    genre:
+    language: Bulgarian
+
+  - title: Cupidon power
+    volume:
+    author: Luc Blanvillain
+    year: 2019
+    genre:
+    language: French
+
+  - title: Harry Potter et la chambre des secrets
+    volume: 2
+    author: J.K. Rowling
+    year: 2019
+    genre:
+    language: French
+
+  - title: Harry Potter a l ecole des sorciers
+    volume: 1
+    author: J.K. Rowling
+    year: 2018
+    genre:
+    language: French

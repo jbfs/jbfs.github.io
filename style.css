@@ -1,0 +1,152 @@
+body {
+    /* https://www.transparenttextures.com/ */
+    background-image: url('icons/clean-textile.png'), url('icons/papirus.png');
+    background-repeat: repeat, no-repeat;
+    background-size: auto, 400px 165px;
+    background-position: top left, top center;
+}
+
+h1 {
+    text-align:center;
+    font-size: 50px;
+    font-family: "Courier New";
+    color: black;
+    margin-bottom: 70px;
+}
+
+.book_box{
+    border-radius: 15px;
+    border-top-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border: 1px solid #17191B;
+    overflow: hidden;
+    margin-bottom: 5px;
+    margin-top: 15px;
+    transition: all 0.3s ease;
+    box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+    position: relative;
+}
+
+.book_box a {
+    text-decoration: none;
+}
+
+.book_info{
+    border: 5px solid #17191B;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    transition: all 0.3s ease;
+    box-shadow: 10px -10px 5px  rgba(0,0,0,0.6);
+    height: auto;
+}
+
+.book_box_header{
+    background-color: #444950;
+    padding: 5px 35px;
+    border-bottom: 1px solid #17191B;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Courier New";
+    position: relative;
+}
+
+.book_box_body{
+    height: auto;
+    padding: 5px 15px;
+    background-color: #002b36;
+    font-size: 22px;
+    font-family: "Courier New";
+    color: #FFFFF0;
+}
+
+.info_text_body {
+    padding: 5px 15px;
+    background-color: #002b36;
+    font-size: 18px;
+    font-family: "Courier New";
+}
+
+.book_box_footer {
+    padding: 0px 10px;
+    background-color: #444950;
+    font-style: italic;
+    overflow:hidden;  /*https://stackoverflow.com/a/20180165*/
+}
+
+.book_info_indicator {
+    color: #002b36;
+    text-align: center;
+    float: center;
+}
+
+.book_box_footer:hover .book_info_indicator {
+    display: block;
+    color: Orchid;
+}
+
+.volume {
+    color: #808000;
+    text-align: right;
+    font-size: 18px;
+}
+
+.book_genre {
+    float: left;
+}
+
+.book_read_year {
+    float: right;
+}
+
+.hide_element {
+    display: none;
+}
+
+#user_search_category {
+    background-repeat: no-repeat;
+    font-size: 16px;
+    padding: 12px 5px 12px 10px;
+    border: 1px solid #ddd;
+}
+
+#user_search_input {
+    width: 15%;
+    background-image: url('icons/searchicon.png');
+    background-position: 10px 12px;
+    background-repeat: no-repeat;
+    font-size: 16px;
+    padding: 12px 20px 12px 40px;
+    border: 1px solid #ddd;
+}
+
+.binder_hole {
+    border-radius: 50%;
+    border: 1px solid #17191B;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 2%;
+    top: 16%;
+
+    background-color: #002b36;
+    background-image: url('icons/clean-textile.png');
+}
+
+.languages {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    text-align: center;
+ }
+
+.language_box {
+    padding: 3px 10px;
+    margin-right: 6px;
+    float: left;
+    font-weight: bold;
+    background-color: #002b36;
+}
+
+.languages label{
+    margin: 0px 0px 0px 3px;
+}
