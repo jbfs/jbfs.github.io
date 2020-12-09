@@ -6,7 +6,7 @@ TEMPLATES['body'] = r"""<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8"/>
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="icons/favicon.png">
     <link rel="stylesheet" href="./bootstrap.min.css">
     <link rel="stylesheet" href="style.css" type="text/css"/>
     <script src="script.js" type="text/javascript"></script>
