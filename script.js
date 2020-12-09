@@ -1,4 +1,4 @@
-let filter_by_data_type = 'title';
+let FILTER_CRITERION = 'title';
 window.onload = function() {
     hide_stuff();
     document.querySelector("#checkbox_french").checked = true;
@@ -6,8 +6,9 @@ window.onload = function() {
     document.querySelector("#checkbox_japanese").checked = true;
 };
 
-function insert_after(new_node, reference_node) {
-    reference_node.parentNode.insertBefore(new_node, reference_node.nextSibling);
+function filter_by_data_type(value) {
+    FILTER_CRITERION = value;
+    filter_books();
 }
 
 function toggle_info(element) {
@@ -41,10 +42,10 @@ function filter_books() {
 	let book = books[i];
 	let box = book.firstElementChild;
 	let text;
-	if      (filter_by_data_type === "author") {text = ".book_box_header"}
-	else if (filter_by_data_type === "title")  {text = ".book_box_body"}
-	else if (filter_by_data_type === "year")   {text = ".book_read_year"}
-	else if (filter_by_data_type === "genre")  {text = ".book_genre"}
+	if      (FILTER_CRITERION === "author") {text = ".book_box_header"}
+	else if (FILTER_CRITERION === "title")  {text = ".book_box_body"}
+	else if (FILTER_CRITERION === "year")   {text = ".book_read_year"}
+	else if (FILTER_CRITERION === "genre")  {text = ".book_genre"}
 	text = box.querySelector(text).textContent.toUpperCase();
 
 	let book_lang = box.querySelector(".book_language").textContent.toUpperCase();
@@ -58,11 +59,6 @@ function filter_books() {
 	    }
 	}
     }
-}
-
-// https://stackoverflow.com/a/51874002
-function normalize_string(string) {
-    return string.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
 }
 
 function hide_stuff(genre) {
@@ -80,4 +76,13 @@ function hide_stuff(genre) {
 	    volume.classList.add("hide_element");
 	}
     }
+}
+
+function insert_after(new_node, reference_node) {
+    reference_node.parentNode.insertBefore(new_node, reference_node.nextSibling);
+}
+
+// https://stackoverflow.com/a/51874002
+function normalize_string(string) {
+    return string.normalize('NFD').replace(/[\u0300-\u036f]/g, "");
 }

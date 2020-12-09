@@ -13,7 +13,7 @@ TEMPLATES['body'] = r"""<!DOCTYPE html>
   </head>
   <body>
     <input id="user_search_input" onkeyup="filter_books()" oninput="filter_books()" type="search" placeholder="Search for books ...">
-    <select id="user_search_category" onchange="filter_by_data_type=this.value" onfocus="this.selectedIndex=-1;">
+    <select id="user_search_category" onchange="filter_by_data_type(this.value)" onfocus="this.selectedIndex=-1;">
       <option>title</option>
       <option>author</option>
       <option>year</option>
