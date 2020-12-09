@@ -40,17 +40,14 @@ function filter_books() {
     for (let i=0; i<books.length; ++i) {
 	let book = books[i];
 	let box = book.firstElementChild;
-	let book_lang = box.querySelector(".book_language").textContent.toUpperCase();
 	let text;
-	if (filter_by_data_type === "author") {
-	    text = box.querySelector(".book_box_header").textContent.toUpperCase();
-	} else if (filter_by_data_type === "title") {
-	    text = box.querySelector(".book_box_body").textContent.toUpperCase();
-	} else if (filter_by_data_type === "year") {
-	    text = box.querySelector(".book_read_year").textContent.toUpperCase();
-	} else if (filter_by_data_type === "genre") {
-	    text = box.querySelector(".book_genre").textContent.toUpperCase();
-	}
+	if      (filter_by_data_type === "author") {text = ".book_box_header"}
+	else if (filter_by_data_type === "title")  {text = ".book_box_body"}
+	else if (filter_by_data_type === "year")   {text = ".book_read_year"}
+	else if (filter_by_data_type === "genre")  {text = ".book_genre"}
+	text = box.querySelector(text).textContent.toUpperCase();
+
+	let book_lang = box.querySelector(".book_language").textContent.toUpperCase();
 	if (!language_checked[book_lang]) {
 	    book.classList.add("hide_element");
 	} else {
