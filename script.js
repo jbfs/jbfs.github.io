@@ -1,6 +1,9 @@
 let filter_by_data_type = 'title';
 window.onload = function() {
     hide_stuff();
+    document.querySelector("#checkbox_french").checked = true;
+    document.querySelector("#checkbox_bulgarian").checked = true;
+    document.querySelector("#checkbox_japanese").checked = true;
 };
 
 function insert_after(new_node, reference_node) {
