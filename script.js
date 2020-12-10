@@ -17,12 +17,14 @@ function toggle_info(element) {
     if (info) {
 	info.remove();
     } else {
-	let info_text = book.querySelector('#book_box_info_storage').innerHTML;
+	let info_text = book.querySelector('#book_box_info_storage').textContent;
+	let conv = new showdown.Converter();
+	info_text = conv.makeHtml(info_text);
 	let info_block_template = document.querySelector("#info_block_template");
-	var new_item = info_block_template.cloneNode(true);
+	let new_item = info_block_template.cloneNode(true);
 	new_item.classList.remove("hide_element");
 	new_item.id = "instantiated_info_block";
-	if (!(info_text === "None")) {
+	if (!(info_text === "<p>None</p>")) {
 	    new_item.querySelector('#info_text').innerHTML = info_text;
 	}
 	insert_after(new_item, book);
@@ -32,7 +34,7 @@ function toggle_info(element) {
 function filter_books() {
     let input = document.getElementById("user_search_input").value.toUpperCase();
     let books = document.querySelector(".container").firstElementChild.children;
-    var language_checked = {
+    let language_checked = {
 	"FRENCH": document.querySelector("#checkbox_french").checked,
 	"BULGARIAN": document.querySelector("#checkbox_bulgarian").checked,
 	"JAPANESE": document.querySelector("#checkbox_japanese").checked

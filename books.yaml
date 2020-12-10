@@ -5,8 +5,6 @@ books:
     year: 2020
     genre:
     language: French
-    info: |
-        ...
 
   - title: Rico & Oscar
     volume: 1

@@ -10,6 +10,7 @@ TEMPLATES['body'] = r"""<!DOCTYPE html>
     <link rel="stylesheet" href="./bootstrap.min.css">
     <link rel="stylesheet" href="style.css" type="text/css"/>
     <script src="script.js" type="text/javascript"></script>
+    <script src="showdown.min.js" type="text/javascript"></script>
   </head>
   <body>
     <input id="user_search_input" onkeyup="filter_books()" oninput="filter_books()" type="search" placeholder="Search for books ...">
