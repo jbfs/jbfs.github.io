@@ -1,4 +1,20 @@
 books:
+  - title: Rico & Oscar
+    volume: 2
+    author: Andreas Steinhöfel
+    year: 2020
+    genre: Roman policier
+    language: French
+
+  - title: Lili regarde trop le télé
+    volume: 46
+    author: Dominique de Saint Mars
+    year: 2020
+    genre: BD
+    language: French
+    info: |
+        cette serie de livre est tres instuctive sa apprend que il faut regarder la television avec moderation
+
   - title: Les 39 clés
     volume: 4
     author: Jude Watson
@@ -14,7 +30,7 @@ books:
     language: French
 
   - title: Lili veut un petit chat
-    volume:
+    volume: 25
     author: Dominique de Saint Mars
     year: 2020
     genre: BD
@@ -28,7 +44,7 @@ books:
     language: French
 
   - title: Lili va chez la psy
-    volume:
+    volume: 55
     author: Dominique de Saint Mars
     year: 2020
     genre: BD
