@@ -1,4 +1,14 @@
 books:
+  - title: シャーロック・ホームズ全集　
+    volume: まだらの紐
+    author: コナン・ドイル
+    year: 2020　
+    genre: Manga
+    language: Japanese
+    info: >
+        mon premier livre japonais!
+        ![Sherlock Holmes](img/sherlock_holmes_jp.png)
+
   - title: Rico & Oscar
     volume: 2
     author: Andreas Steinhöfel
