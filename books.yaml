@@ -1,4 +1,11 @@
 books:
+  - title: L'enfance extraordinaire de Nicholas Benedict'
+    volume: 4
+    author: Trenton Lee Stewart
+    year: 2020
+    genre:
+    language: French
+
   - title: シャーロック・ホームズ全集　
     volume: まだらの紐
     author: コナン・ドイル
