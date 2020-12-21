@@ -1,4 +1,32 @@
 books:
+  - title: Rico & Oscar 
+    volume: 3
+    author: Andreas Steinhöfel
+    year: 2020
+    genre:
+    language: French
+
+  - title: Lili a trop honte
+    volume: 104
+    author: Dominique de Saint Mars
+    year: 2020
+    genre:
+    language: French
+
+  - title: Wonderpark
+    volume: 1
+    author: Fabrice Colin
+    year: 2020
+    genre:
+    language: French
+
+  - title: Les 39 clés
+    volume: 2
+    author: Gordon Korman
+    year: 2020
+    genre:
+    language: French
+
   - title: L'enfance extraordinaire de Nicholas Benedict
     volume: 4
     author: Trenton Lee Stewart
