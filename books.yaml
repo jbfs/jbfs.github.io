@@ -1,4 +1,32 @@
 books:
+  - title:  Max est dans la lune
+    volume: 47
+    author: Dominique de Saint Mars
+    year: 2020
+    genre: BD
+    language: French
+
+  - title:  Max est timide
+    volume: 3
+    author: Dominique de Saint Mars
+    year: 2020
+    genre: BD
+    language: French
+
+  - title:  Wonderpark
+    volume: 2
+    author: Fabrice Colin
+    year: 2020
+    genre:
+    language: French
+
+  - title:  Journal d'un degonflé
+    volume: 8
+    author: Jeff Kinney
+    year: 2020
+    genre:
+    language: French
+
   - title: Rico & Oscar 
     volume: 3
     author: Andreas Steinhöfel
