@@ -1,4 +1,25 @@
 books:
+  - title: Les 39 clés
+    volume: 5
+    author: Patrick Carman
+    year: 2020
+    genre: 
+    language: French
+
+  - title: Wonderpark
+    volume: 3
+    author: Fabrice Colin
+    year: 2020
+    genre: 
+    language: French
+
+  - title: Persée et le regard de pierre  
+    volume: 18
+    author: Hélène Moutardre
+    year: 2020
+    genre: Mythologie
+    language: French
+
   - title:  Max est dans la lune
     volume: 47
     author: Dominique de Saint Mars
