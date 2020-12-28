@@ -1,4 +1,11 @@
 books:
+  - title: Jack Perdu et le Royaume des ombres
+    volume: 
+    author: Katherine Marsh
+    year: 2020
+    genre: 
+    language: French
+
   - title: Les 39 clés
     volume: 5
     author: Patrick Carman
