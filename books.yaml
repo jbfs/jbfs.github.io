@@ -1,4 +1,11 @@
 books:
+  - title: Journal d'un degonflé
+    volume: 2
+    author: Jeff Kinney
+    year: 2020
+    genre: 
+    language: French
+
   - title: Miss Dashwood
     volume: 3
     author: Gwenaële Barussaud
