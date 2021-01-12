@@ -1,4 +1,88 @@
 books:
+  - title: Lili a la passion du cheval
+    volume: 92
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD
+    language: French
+
+  - title: Marlène grignote tout le temps
+    volume: 64
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD
+    language: French
+
+  - title: Lili se trouve moche
+    volume: 37
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD
+    language: French
+
+  - title: Journal d'un degonflé
+    volume: 1
+    author: Jeff Kinney
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Journal d'un degonflé
+    volume: 6
+    author: Jeff Kinney
+    year: 2021
+    genre: 
+    language: French
+
+  - title: 43, rue du vieux cimetière
+    volume: 1
+    author: Kate Klise
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Les 39 clés
+    volume: 8
+    author: Gordon Korman
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Les 39 clés
+    volume: 7
+    author: Patrick Carman
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Max et Lili veulent être populaires
+    volume: 106
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD
+    language: French
+
+  - title: Max se trouve trop petit
+    volume: 111
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD
+    language: French
+
+  - title: Lili ne veut pas se coucher
+    volume: 1
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD
+    language: French
+
+  - title: Lili découvre sa Mamie
+    volume: 9
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD
+    language: French
+
   - title: Journal d'un degonflé
     volume: 2
     author: Jeff Kinney
