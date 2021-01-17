@@ -1,11 +1,39 @@
 books:
+  - title: Les 39 clés
+    volume: 10
+    author: Margaret Peterson Haddix
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Les 39 clés
+    volume: 9
+    author: Linda Sue Park
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Les Sisters
+    volume: 7
+    author: Cazenove & William
+    year: 2021
+    genre: BD
+    language: French
+
+  - title: Max veut être délégué de classe
+    volume: 73
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD
+    language: French
+
   - title: Lili a la passion du cheval
     volume: 92
     author: Dominique de Saint Mars
     year: 2021
     genre: BD
     language: French
-
+  
   - title: Marlène grignote tout le temps
     volume: 64
     author: Dominique de Saint Mars
