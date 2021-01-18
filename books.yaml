@@ -1,4 +1,11 @@
 books:
+  - title: Journal d'un degonflé
+    volume: 3
+    author: Jeff Kinney
+    year: 2021
+    genre: 
+    language: French
+
   - title: Les 39 clés
     volume: 10
     author: Margaret Peterson Haddix
