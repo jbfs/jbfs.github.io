@@ -1,4 +1,25 @@
 books:
+  - title: Chat Noir
+    volume: 1
+    author: Yann Darko
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Les enquêtes d'Enola Holmes
+    volume: 1
+    author: Nancy Springer
+    year: 2021
+    genre: 
+    language: French
+
+  - title: 43, rue du vieux-cimetière
+    volume: 2
+    author: Kate Klise
+    year: 2021
+    genre: 
+    language: French
+
   - title: Journal d'un degonflé
     volume: 3
     author: Jeff Kinney
