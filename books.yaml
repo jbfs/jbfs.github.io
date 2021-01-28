@@ -1,4 +1,18 @@
 books:
+  - title: Les Sisters
+    volume: 14
+    author: Cazenove & William
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Les Sisters
+    volume: 10
+    author: Cazenove & William
+    year: 2021
+    genre: 
+    language: French       
+
   - title: Chat Noir
     volume: 1
     author: Yann Darko
