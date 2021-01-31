@@ -1,16 +1,72 @@
 books:
+  - title: 43, rue du vieux-cimetière
+    volume: 4
+    author: Kate Klise
+    year: 2021
+    genre: 
+    language: French
+
+  - title: 43, rue du vieux-cimetière
+    volume: 3
+    author: Kate Klise
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Chat Noir
+    volume: 2
+    author: Yann Darko
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Max et Lili veulent éduquer leurs parents
+    volume: 93
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD
+    language: French
+
+  - title: Le père de Max et Lili est au chômage
+    volume: 43
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD
+    language: French
+
+  - title: Max et Lili sont fans de marques
+    volume: 85
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD
+    language: French
+
+  - title: Max va à l'hôpital
+    volume: 10
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD
+    language: French
+
+  - title: Les Legendaires
+    volume: 4
+    author: Patrick Sobral
+    year: 2021
+    genre: BD
+    language: French
+
   - title: Les Sisters
     volume: 14
     author: Cazenove & William
     year: 2021
-    genre: 
+    genre: BD
     language: French
 
   - title: Les Sisters
     volume: 10
     author: Cazenove & William
     year: 2021
-    genre: 
+    genre: BD
     language: French       
 
   - title: Chat Noir
