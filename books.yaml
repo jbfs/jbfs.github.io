@@ -1,4 +1,11 @@
 books:
+  - title: Chi une vie de chat
+    volume: 2
+    author: Konami Kanata
+    year: 2021
+    genre: Manga
+    language: French
+
   - title: 43, rue du vieux-cimetière
     volume: 4
     author: Kate Klise
