@@ -1,4 +1,53 @@
 books:
+  - title: Petit Vampire
+    volume: 
+    author: Joann Sfar
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Max et Lili veulent tout tout de suite !
+    volume: 53
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD 
+    language: French
+
+  - title: Lili se fait toujours gronder
+    volume: 48
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD 
+    language: French
+
+  - title: Emilie a déménagé
+    volume: 32
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD 
+    language: French
+
+  - title: Chat Noir
+    volume: 3
+    author: Yann Darko
+    year: 2021
+    genre: 
+    language: French
+
+  - title: 43, rue du vieux-cimetière
+    volume: 5
+    author: Kate Klise
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Chi une vie de chat
+    volume: 3
+    author: Konami Kanata
+    year: 2021
+    genre: Manga
+    language: French
+
   - title: Chi une vie de chat
     volume: 2
     author: Konami Kanata
