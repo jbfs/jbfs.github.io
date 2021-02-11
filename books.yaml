@@ -1,4 +1,11 @@
 books:
+  - title: La passe-miroire
+    volume: 2
+    author: Christelle Dabos
+    year: 2021
+    genre: 
+    language: French
+
   - title: Petit Vampire
     volume: 
     author: Joann Sfar
