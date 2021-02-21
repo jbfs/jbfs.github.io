@@ -1,5 +1,54 @@
 books:
-  - title: La passe-miroire
+  - title: La passe-miroir
+    volume: 3
+    author: Christelle Dabos
+    year: 2021
+    genre: 
+    language: French
+
+  - title: 43, rue du vieux-cimetière
+    volume: 6
+    author: Kate Klise
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Le royaume de Kensuké
+    volume: 
+    author: Michael Morpurgo
+    year: 2021
+    genre: 
+    language: French  
+
+  - title: Les enquêtes d'Alfred et Agatha
+    volume: 1
+    author: Ana Campoy
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Chi une vie de chat
+    volume: 8
+    author: Konami Kanata
+    year: 2021
+    genre: Manga
+    language: French
+
+  - title: Les parents de Max et Lili se disputent
+    volume: 26
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD 
+    language: French
+
+  - title: Le cousin de Max et Lili se drogue
+    volume: 61
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD 
+    language: French
+
+  - title: La passe-miroir
     volume: 2
     author: Christelle Dabos
     year: 2021
