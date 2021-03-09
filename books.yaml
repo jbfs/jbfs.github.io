@@ -1,4 +1,60 @@
 books:
+  - title: Max et Lili fêtent Noel en famille
+    volume: 82
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD
+    language: French
+
+  - title: Max n'aime pas lire
+    volume: 2
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD
+    language: French
+
+  - title: Max décide de faire des efforts
+    volume: 89
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD
+    language: French
+
+  - title: Les carnets de Cerise
+    volume: 1
+    author: Joris Chamblain et Aurélie Neyret
+    year: 2021
+    genre: BD
+    language: French  
+
+  - title: Les Sisters
+    volume: 11
+    author: Cazenove & William
+    year: 2021
+    genre: BD
+    language: French  
+
+  - title: Les Sisters
+    volume: 8
+    author: Cazenove & William
+    year: 2021
+    genre: BD
+    language: French    
+
+  - title: La maison de Max et Lili a été cambriolée
+    volume: 68
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD
+    language: French
+
+  - title: Max n'aime pas perdre
+    volume: 39
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD
+    language: French
+
   - title: La passe-miroir
     volume: 3
     author: Christelle Dabos
