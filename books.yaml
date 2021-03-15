@@ -1,4 +1,18 @@
 books:
+  - title: Les enquêtes d'Alfred et Agatha
+    volume: 3
+    author: Ana Campoy
+    year: 2021
+    genre: 
+    language: French
+
+  - title: La passe-miroir
+    volume: 4
+    author: Christelle Dabos
+    year: 2021
+    genre: 
+    language: French
+
   - title: Max et Lili fêtent Noel en famille
     volume: 82
     author: Dominique de Saint Mars
@@ -6,7 +20,7 @@ books:
     genre: BD
     language: French
 
-  - title: Max n'aime pas lire
+    title: Max n'aime pas lire
     volume: 2
     author: Dominique de Saint Mars
     year: 2021
