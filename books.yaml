@@ -1,4 +1,25 @@
 books:
+  - title: Le secret de la boussole
+    volume: 2
+    author: Caroline Triaureau et la classe Culture et Patrimoine du college Montesquieu Sainte-Marie
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Cœur mandarine
+    volume: 3
+    author: Cathy Cassidy
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Les 39 clés
+    volume: 13
+    author: Jude Watson
+    year: 2021
+    genre: 
+    language: French
+
   - title: Lili veut un téléphone portable
     volume: 94
     author: Dominique de Saint Mars
