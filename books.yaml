@@ -1,4 +1,25 @@
 books:
+  - title: Les enquêtes d'Alfred et Agatha
+    volume: 4
+    author: Ana Campoy
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Lili veut être une star
+    volume: 65
+    author: Dominique de Saint Mars
+    year: 2021
+    genre: BD
+    language: French
+
+  - title: Les 39 clés
+    volume: 14
+    author: Peter Lerangis
+    year: 2021
+    genre: 
+    language: French
+
   - title: Le secret de la boussole
     volume: 2
     author: Caroline Triaureau
