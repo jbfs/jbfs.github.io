@@ -1,4 +1,25 @@
 books:
+  - title: Les enquêtes d'Enola Holmes
+    volume: 2
+    author: Nancy Springer
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Cœur salé
+    volume: 3 1/2
+    author: Cathy Cassidy
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Les 39 clés
+    volume: 15
+    author: Roland Smith
+    year: 2021
+    genre: 
+    language: French
+
   - title: Les enquêtes d'Alfred et Agatha
     volume: 4
     author: Ana Campoy
