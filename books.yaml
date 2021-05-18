@@ -1,4 +1,46 @@
 books:
+  - title: Cœur cannelle
+    volume: 12
+    author: Miss Jungle
+    year: 2021
+    genre: BD
+    language: French
+
+  - title: Les enquêtes d'Alfred et Agatha
+    volume: 5
+    author: Ana Campoy
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Cœur coco
+    volume: 4
+    author: Cathy Cassidy
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Wilma Tenderfoot
+    volume: 1
+    author: Emma Kennedy
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Les 39 clés
+    volume: 16
+    author: Linda Sue Park
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Les enquêtes d'Enola Holmes
+    volume: 3
+    author: Nancy Springer
+    year: 2021
+    genre: 
+    language: French
+
   - title: Les enquêtes d'Enola Holmes
     volume: 2
     author: Nancy Springer
