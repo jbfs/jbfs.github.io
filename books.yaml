@@ -1,4 +1,18 @@
 books:
+  - title: Les enquêtes d'Alfred et Agatha
+    volume: 6
+    author: Ana Campoy
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Cœur vanille
+    volume: 5
+    author: Cathy Cassidy
+    year: 2021
+    genre: 
+    language: French
+
   - title: Cœur cannelle
     volume: 12
     author: Miss Jungle
