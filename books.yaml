@@ -1,4 +1,11 @@
 books:
+  - title: Les 39 clés
+    volume: 17
+    author: David Baldacci
+    year: 2021
+    genre: 
+    language: French
+
   - title: Les enquêtes d'Alfred et Agatha
     volume: 6
     author: Ana Campoy
