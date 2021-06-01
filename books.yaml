@@ -1,4 +1,18 @@
 books:
+  - title: Les enquêtes d'Alfred et Agatha
+    volume: 7
+    author: Ana Campoy
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Cœur sucré
+    volume: 5 1/2
+    author: Cathy Cassidy
+    year: 2021
+    genre: 
+    language: French
+
   - title: Les 39 clés
     volume: 17
     author: David Baldacci
