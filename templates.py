@@ -20,6 +20,7 @@ TEMPLATES['body'] = r"""<!DOCTYPE html>
       <option>year</option>
       <option>genre</option>
     </select>
+    <div id="numb_search_hits"></div>
     <h1>Mes livres</h1>
     <div class="languages">
       <div class="language_box">

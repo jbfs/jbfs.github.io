@@ -154,3 +154,8 @@ h1 {
 .languages label{
     margin: 0px 0px 0px 3px;
 }
+
+#numb_search_hits {
+    color: #FFF8DC;
+    font-size: 18px;
+}

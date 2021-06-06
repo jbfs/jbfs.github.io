@@ -4,6 +4,7 @@ window.onload = function() {
     document.querySelector("#checkbox_french").checked = true;
     document.querySelector("#checkbox_bulgarian").checked = true;
     document.querySelector("#checkbox_japanese").checked = true;
+    filter_books();
 };
 
 function filter_by_data_type(value) {
@@ -40,6 +41,7 @@ function filter_books() {
 	"JAPANESE": document.querySelector("#checkbox_japanese").checked
     };
 
+    let numb_hits = 0
     for (let i=0; i<books.length; ++i) {
 	let book = books[i];
 	let box = book.firstElementChild;
@@ -56,11 +58,13 @@ function filter_books() {
 	} else {
             if (normalize_string(text).includes(normalize_string(input))) {
 		book.classList.remove("hide_element");
+		numb_hits += 1;
 	    } else {
 		book.classList.add("hide_element");
 	    }
 	}
     }
+    numb_search_hits.innerHTML = "#hits: ".concat(numb_hits);
 }
 
 function hide_stuff(genre) {
