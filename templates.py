@@ -54,6 +54,7 @@ TEMPLATES['book'] = r"""
         <div class="col-md-4">
           <div class="book_box">
             <div class="book_box_header">{author}
+              <label class="book_box_header_kind">{kind}</label>
               <div class="binder_hole"></div>
             </div>
             <div class="book_box_body">{title}

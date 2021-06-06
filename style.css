@@ -50,6 +50,10 @@ h1 {
     position: relative;
 }
 
+.book_box_header_kind{
+    float: right;
+}
+
 .book_box_body{
     height: auto;
     padding: 5px 15px;
