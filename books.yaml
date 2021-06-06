@@ -950,7 +950,7 @@ books:
     language: French
 
   - title: Cœur gimauve
-    volume:
+    volume: 2
     author: Cathy Cassidy
     year: 2020
     genre:
@@ -1342,7 +1342,7 @@ books:
     language: French
 
   - title: Cœur cerise
-    volume:
+    volume: 1
     author: Cathy Cassidy
     year: 2020
     genre:
