@@ -1,6 +1,6 @@
 books:
   - title: Les enquêtes d'Alfred et Agatha
-    volume: 8
+    volume: 8 
     author: Ana Campoy
     year: 2021
     genre: 
@@ -211,14 +211,14 @@ books:
 
   - title: Les 39 clés
     volume: 12
-    author: Rick Riordan, Peter Lerangis, Gordon Korman et Jude Watson
+    author: Rick Riordan
     year: 2021
     genre: 
     language: French
 
   - title: Les 39 clés
     volume: 11
-    author: Rick Riordan, Peter Lerangis, Gordon Korman et Jude Watson
+    author: Rick Riordan
     year: 2021
     genre: 
     language: French
