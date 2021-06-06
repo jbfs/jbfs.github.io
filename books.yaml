@@ -1,5 +1,19 @@
 books:
   - title: Les enquêtes d'Alfred et Agatha
+    volume: 8
+    author: Ana Campoy
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Cœur cookie
+    volume: 6
+    author: Cathy Cassidy
+    year: 2021
+    genre: 
+    language: French
+
+  - title: Les enquêtes d'Alfred et Agatha
     volume: 7
     author: Ana Campoy
     year: 2021
