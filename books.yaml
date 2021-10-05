@@ -1,4 +1,11 @@
 books:
+  - title: The good Girl
+    volume:
+    author: Claire Eliza Bartlett
+    year: 2021
+    genre: policier
+    language: French
+
   - title: Les enquêtes d'Alfred et Agatha
     volume: 8 
     author: Ana Campoy
