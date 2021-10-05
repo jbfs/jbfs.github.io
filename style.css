@@ -50,6 +50,10 @@ h1 {
     position: relative;
 }
 
+.book_box_header_kind{
+    float: right;
+}
+
 .book_box_body{
     height: auto;
     padding: 5px 15px;
@@ -149,4 +153,9 @@ h1 {
 
 .languages label{
     margin: 0px 0px 0px 3px;
+}
+
+#numb_search_hits {
+    color: #FFF8DC;
+    font-size: 18px;
 }

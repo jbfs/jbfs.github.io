@@ -20,6 +20,7 @@ TEMPLATES['body'] = r"""<!DOCTYPE html>
       <option>year</option>
       <option>genre</option>
     </select>
+    <div id="numb_search_hits"></div>
     <h1>Mes livres</h1>
     <div class="languages">
       <div class="language_box">
@@ -54,6 +55,7 @@ TEMPLATES['book'] = r"""
         <div class="col-md-4">
           <div class="book_box">
             <div class="book_box_header">{author}
+              <label class="book_box_header_kind">{kind}</label>
               <div class="binder_hole"></div>
             </div>
             <div class="book_box_body">{title}
