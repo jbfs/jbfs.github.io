@@ -1,4 +1,11 @@
 books:
+  - title: Vivre ses vies
+    volume:
+    author: Veronique Petit
+    year: 2021
+    genre: 
+    language: French
+
   - title: The good Girl
     volume:
     author: Claire Eliza Bartlett
